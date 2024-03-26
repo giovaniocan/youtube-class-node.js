@@ -1,0 +1,9 @@
+{
+  "name":"curso-nodejs",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
